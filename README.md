@@ -13,7 +13,7 @@ This is a simple C++ program that allows users to store and manage contact infor
 
 - A C++ compiler (e.g., g++, clang++)
 - A terminal or command prompt to run the program
-- 
+  
 ## Usage
 
 1. When you run the program, you will be presented with a menu:
